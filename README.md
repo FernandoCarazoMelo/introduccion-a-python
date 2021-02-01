@@ -1,5 +1,7 @@
 # Introduccion-a-Python
-Curso de Introducción a la Programación en Python - Impartido en TECNUN Universidad de Navarra
+Curso de Introducción a la Programación en Python - Impartido en TECNUN Universidad de Navarra.
+
+A continuación se detallan los contenidos y archivos que se utilizarán en clase:
 
 | Clase    | Tema                                     | Documentos/archivos utilizados                                                | Práctica |   |
 |----------|------------------------------------------|-------------------------------------------------------------------------------|----------|---|
