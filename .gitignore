@@ -6,9 +6,11 @@ class/10.30_excercises_numpy.ipynb
 .vscode
 
 class-solved/MODULE_1-python_introduction-solved/.ipynb_checkpoints/
-class-solved/MODULE_1-python_introduction-solved/10.02_CondicionesBucles-solved.ipynb
-class-solved/MODULE_1-python_introduction-solved/10.03_Funciones-solved.ipynb
-class-solved/MODULE_1-python_introduction-solved/10.04_ProgramacionPython-solved.ipynb
+class/MODULE_1-python_introduction/__pycache__/
+class/MODULE_1-python_introduction/.ipynb_checkpoints/
+# class-solved/MODULE_1-python_introduction-solved/10.02_CondicionesBucles-solved.ipynb
+# class-solved/MODULE_1-python_introduction-solved/10.03_Funciones-solved.ipynb
+# class-solved/MODULE_1-python_introduction-solved/10.04_ProgramacionPython-solved.ipynb
 class-solved/MODULE_1-python_introduction-solved/10.08_Ejercicios-solved.ipynb
 class-solved/MODULE_1-python_introduction-solved/10.10_ExamenInformaticaDic2014-solved.ipynb
 class-solved/MODULE_1-python_introduction-solved/10.10_vectoresEquilibrados.txt
