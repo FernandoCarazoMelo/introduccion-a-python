@@ -18,7 +18,7 @@ A continuación se detallan los contenidos y archivos que se utilizarán en clas
 | 2020-03-16 | Clase 8  |    Introduction to Pandas     |     class/02.03_dataScience-salary-pandas <br>- docs/02.01, 02.02     |          |
 | 2020-03-23 | Clase 9  |                               |                                                                       |          |
 | 2020-04-13 | Clase 10 |         Pandas Lab 1          |                        02.40_PANDAS_LAB_BANCO                         |  02.40   |
-| 2020-04-20 | Clase 11 |     Pandas Lab 2 + apply      |                      02.50_PANDAS_LAB_TED_TALKS                       |  02.50   |
+| 2020-04-20 | Clase 11 |     Pandas Lab 2 + apply      |              02.40_PANDAS_LAB_Banco_dataframe_style_PRO               |  02.50   |
 | 2020-04-27 | Clase 12 |                               |                                                                       |          |
 | 2020-05-04 | Clase 13 |                               |                                                                       |          |
 | 2020-05-11 | Clase 14 |                               |                                                                       |          |
